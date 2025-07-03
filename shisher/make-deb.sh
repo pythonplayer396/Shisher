@@ -32,7 +32,6 @@ Version: ${_VERSION}
 Architecture: ${_ARCH}
 Maintainer: @darkwall
 Depends: ${_depend}
-Homepage: https://github.com/htr-tech/shisher
 Description: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only !
 CONTROL_EOF
 
